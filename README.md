@@ -1,4 +1,4 @@
-# APP Lista de Terafas
+# APP Lista de Tarefas
 
 Esse app foi um projeto pessoal durante minha formacao
 em analise desenvolvimento de sistemas.
