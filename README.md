@@ -29,3 +29,10 @@ https://imgur.com/a/gBD9XHR
 - [Meu github](https://github.com/deivid94)
 - [Meu Linkedin](https://www.linkedin.com/in/deivid-martins-6a62911a0/)
 - [Meu instagram](https://www.instagram.com/__martinxx/)
+## Variáveis de Ambiente
+
+Para rodar esse projeto, você vai precisar: 
+
+`NAVEGADOR WEB [CHROME/MOZZILA/EDGE]`
+
+`STACK XAMPP [MYSQL E APACHE]`
